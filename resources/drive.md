@@ -1,6 +1,5 @@
 # DRIVE
 
-A dataset for retinal vessel segmentation.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for retinal vessel segmentation.
 | Label Types | Segmentation Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for retinal vessel segmentation.
 | Label Space | Diabetic Retinopathy |
 | Annotation Scope | Segmentation |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Segmentation & Classification |
-
-## Why It Matters
-
-DRIVE expands the public segmentation & classification coverage in the catalog.
-
-## Highlights
-
-- Indexed under Segmentation & Classification in the catalog.
-- Primary focus: segmentation.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ DRIVE expands the public segmentation & classification coverage in the catalog.
 
 ## Tags
 
-`diabetic_retinopathy`, `fundus`, `segmentation`, `segmentation_and_classification`
+`fundus`, `segmentation`, `diabetic_retinopathy`, `rgb_fundus_image`, `segmentation_labels`

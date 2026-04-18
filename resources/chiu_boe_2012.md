@@ -1,6 +1,5 @@
 # Chiu_BOE_2012
 
-A dataset for automatic segmentation of closed contour features.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for automatic segmentation of closed contour features.
 | Label Types | Segmentation Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2012 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for automatic segmentation of closed contour features.
 | Label Space | - |
 | Annotation Scope | Segmentation |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Segmentation & Classification |
-
-## Why It Matters
-
-Chiu_BOE_2012 is useful because it brings automatic segmentation of closed contour features into the catalog.
-
-## Highlights
-
-- Indexed under Segmentation & Classification in the catalog.
-- Primary focus: segmentation.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ Chiu_BOE_2012 is useful because it brings automatic segmentation of closed conto
 
 ## Tags
 
-`fundus`, `segmentation`, `segmentation_and_classification`
+`fundus`, `segmentation`, `rgb_fundus_image`, `segmentation_labels`

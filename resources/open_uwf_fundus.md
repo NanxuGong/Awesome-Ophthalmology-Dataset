@@ -1,6 +1,5 @@
 # Open Ultrawidefield Fundus Dataset
 
-A dedicated ultrawidefield fundus dataset with diagnosis labels, demographics, and image-quality assessment.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dedicated ultrawidefield fundus dataset with diagnosis labels, demographics, a
 | Label Types | Quality Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2024 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dedicated ultrawidefield fundus dataset with diagnosis labels, demographics, a
 | Label Space | Disease diagnosis, demographics, and five image-quality dimensions |
 | Annotation Scope | Diagnosis labels, demographic metadata, and image-quality assessment |
 | Official / Recommended Split | No single canonical benchmark split is enforced by the paper |
-| Structural Notes | 200-degree UWF images collected with Optos 200Tx |
-
-## Why It Matters
-
-This dataset matters because public UWF resources are still scarce, and it treats ultrawidefield imaging as a distinct modality rather than a wider fundus proxy.
-
-## Highlights
-
-- A rare public UWF release that includes both diagnosis and clinically grounded quality labels.
-- Useful for research that treats UWF as its own modality rather than a wider version of standard fundus.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ This dataset matters because public UWF resources are still scarce, and it treat
 
 ## Tags
 
-`additional_curated`, `fundus`, `quality_assessment`
+`fundus`, `quality_assessment`, `rgb_fundus_image`, `clinical_data`, `quality_labels`, `additional_curated`

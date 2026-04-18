@@ -1,6 +1,5 @@
 # Open_BUA_AV
 
-A dataset for multi-scale interactive network with artery/vein discriminator for retinal vessel classification.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for multi-scale interactive network with artery/vein discriminator for
 | Label Types | Classification Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for multi-scale interactive network with artery/vein discriminator for
 | Label Space | Retinal Vessel Analysis |
 | Annotation Scope | Classification |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Segmentation & Classification |
-
-## Why It Matters
-
-Open_BUA_AV is useful because it brings multi-scale interactive network with artery/vein discriminator for retinal vessel classification into the catalog.
-
-## Highlights
-
-- Indexed under Segmentation & Classification in the catalog.
-- Primary focus: classification.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ Open_BUA_AV is useful because it brings multi-scale interactive network with art
 
 ## Tags
 
-`classification`, `fundus`, `retinal_vessel_analysis`, `segmentation_and_classification`
+`fundus`, `classification`, `retinal_vessel_analysis`, `rgb_fundus_image`, `classification_labels`

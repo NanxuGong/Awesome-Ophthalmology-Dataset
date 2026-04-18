@@ -1,6 +1,5 @@
 # 2011_IOVS_Chiu
 
-Segment leision of AMD based on SDOCT.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ Segment leision of AMD based on SDOCT.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2011 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ Segment leision of AMD based on SDOCT.
 | Label Space | AMD |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Indexed under multiple tracks: AMD, OCT |
-
-## Why It Matters
-
-2011_IOVS_Chiu is useful because it brings segment leision of amd based on sdoct into the catalog.
-
-## Highlights
-
-- Indexed under AMD, OCT in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ Segment leision of AMD based on SDOCT.
 
 ## Tags
 
-`amd`, `benchmarking`, `oct`
+`oct`, `benchmarking`, `amd`, `oct_image`

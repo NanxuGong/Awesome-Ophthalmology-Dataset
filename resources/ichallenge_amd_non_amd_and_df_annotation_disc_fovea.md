@@ -1,6 +1,5 @@
 # iChallenge: AMD/Non_AMD and DF_Annotation(disc_fovea)
 
-AMD:89, Non-AMD:311, DF:44.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ AMD:89, Non-AMD:311, DF:44.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Request or Project Page |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ AMD:89, Non-AMD:311, DF:44.
 | Label Space | AMD |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: AMD |
-
-## Why It Matters
-
-iChallenge: AMD/Non_AMD and DF_Annotation(disc_fovea) is useful because it brings amd:89, non-amd:311, df:44 into the catalog.
-
-## Highlights
-
-- Indexed under AMD in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ iChallenge: AMD/Non_AMD and DF_Annotation(disc_fovea) is useful because it bring
 
 ## Tags
 
-`amd`, `benchmarking`
+`retinal_imaging`, `benchmarking`, `amd`

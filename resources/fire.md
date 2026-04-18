@@ -1,6 +1,5 @@
 # FIRE
 
-A dataset for fundus images.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for fundus images.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for fundus images.
 | Label Space | - |
 | Annotation Scope | Registration |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Registration |
-
-## Why It Matters
-
-FIRE expands the public registration coverage in the catalog.
-
-## Highlights
-
-- Indexed under Registration in the catalog.
-- Primary focus: registration.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ FIRE expands the public registration coverage in the catalog.
 
 ## Tags
 
-`fundus`, `registration`
+`fundus`, `registration`, `rgb_fundus_image`

@@ -1,6 +1,5 @@
 # MM-Retinal
 
-A multi-modal dataset that encompasses high-quality image-text pairs collected from professional fundus diagram books.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A multi-modal dataset that encompasses high-quality image-text pairs collected f
 | Label Types | Quality Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Request or Project Page |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | Yes |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A multi-modal dataset that encompasses high-quality image-text pairs collected f
 | Label Space | - |
 | Annotation Scope | Quality Assessment |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Multimodal |
-
-## Why It Matters
-
-MM-Retinal is useful because it brings a multi-modal dataset that encompasses high-quality image-text pairs collected from professional fundus diagram books into the catalog.
-
-## Highlights
-
-- Indexed under Multimodal in the catalog.
-- Primary focus: quality assessment.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ MM-Retinal is useful because it brings a multi-modal dataset that encompasses hi
 
 ## Tags
 
-`multimodal`, `multmodal`, `quality_assessment`
+`multimodal`, `quality_assessment`, `rgb_fundus_image`, `text_data`, `quality_labels`

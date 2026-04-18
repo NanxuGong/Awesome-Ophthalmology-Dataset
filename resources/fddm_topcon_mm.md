@@ -1,6 +1,5 @@
 # FDDM TOPCON-MM
 
-Fundus and OCT images in Guangdong Provincial Hospital of Integrated Traditional Chinese and Western Medicine using a Topcon Triton swept-source OCT featuring multimodal fundus imaging.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ Fundus and OCT images in Guangdong Provincial Hospital of Integrated Traditional
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Request or Project Page |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | Yes |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ Fundus and OCT images in Guangdong Provincial Hospital of Integrated Traditional
 | Label Space | - |
 | Annotation Scope | Multimodal Learning |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Multimodal |
-
-## Why It Matters
-
-FDDM TOPCON-MM is useful because it brings fundus and oct images in guangdong provincial hospital of integrated traditional chinese and western medicine using a topcon triton swept-source oct featuring multimodal fundus imaging into the catalog.
-
-## Highlights
-
-- Indexed under Multimodal in the catalog.
-- Primary focus: multimodal learning.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ FDDM TOPCON-MM is useful because it brings fundus and oct images in guangdong pr
 
 ## Tags
 
-`multimodal`, `multimodal_learning`, `multmodal`
+`multimodal`, `multimodal_learning`, `rgb_fundus_image`, `oct_image`

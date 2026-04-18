@@ -1,6 +1,5 @@
 # LES-AV
 
-Vessel annotations and labels for arteries and veins.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ Vessel annotations and labels for arteries and veins.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ Vessel annotations and labels for arteries and veins.
 | Label Space | Retinal Vessel Analysis |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Segmentation & Classification |
-
-## Why It Matters
-
-LES-AV is useful because it brings vessel annotations and labels for arteries and veins into the catalog.
-
-## Highlights
-
-- Indexed under Segmentation & Classification in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ LES-AV is useful because it brings vessel annotations and labels for arteries an
 
 ## Tags
 
-`benchmarking`, `fundus`, `retinal_vessel_analysis`, `segmentation_and_classification`
+`fundus`, `benchmarking`, `retinal_vessel_analysis`, `rgb_fundus_image`

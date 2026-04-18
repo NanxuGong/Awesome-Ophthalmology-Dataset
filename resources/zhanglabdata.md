@@ -1,6 +1,5 @@
 # ZhangLabData
 
-Chest xray data, plus for optical coherence tomography (OCT) images.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ Chest xray data, plus for optical coherence tomography (OCT) images.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ Chest xray data, plus for optical coherence tomography (OCT) images.
 | Label Space | - |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: OCT |
-
-## Why It Matters
-
-ZhangLabData is useful because it brings chest xray data, plus for optical coherence tomography (oct) images into the catalog.
-
-## Highlights
-
-- Indexed under OCT in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ ZhangLabData is useful because it brings chest xray data, plus for optical coher
 
 ## Tags
 
-`benchmarking`, `oct`
+`oct`, `benchmarking`, `oct_image`

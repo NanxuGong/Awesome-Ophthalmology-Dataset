@@ -1,6 +1,5 @@
 # RVD_VIDEO
 
-First video-based retinal dataset by employing handheld devices for data acquisition.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ First video-based retinal dataset by employing handheld devices for data acquisi
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ First video-based retinal dataset by employing handheld devices for data acquisi
 | Label Space | - |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Segmentation & Classification |
-
-## Why It Matters
-
-RVD_VIDEO is useful because it brings first video-based retinal dataset by employing handheld devices for data acquisition into the catalog.
-
-## Highlights
-
-- Indexed under Segmentation & Classification in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ RVD_VIDEO is useful because it brings first video-based retinal dataset by emplo
 
 ## Tags
 
-`benchmarking`, `fundus`, `segmentation_and_classification`
+`fundus`, `benchmarking`, `video`

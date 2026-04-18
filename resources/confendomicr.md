@@ -1,6 +1,5 @@
 # ConfEndoMicr
 
-52 in-vivo confocal corneal microscopy images.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@
 | Label Space | Corneal Imaging |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Corneal |
-
-## Why It Matters
-
-ConfEndoMicr is useful because it brings 52 in-vivo confocal corneal microscopy images into the catalog.
-
-## Highlights
-
-- Indexed under Corneal in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ ConfEndoMicr is useful because it brings 52 in-vivo confocal corneal microscopy 
 
 ## Tags
 
-`benchmarking`, `corneal`, `corneal_imaging`, `corneal_microscopy`
+`corneal_microscopy`, `benchmarking`, `corneal_imaging`

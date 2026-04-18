@@ -1,6 +1,5 @@
 # MultiEYE
 
-A multimodal benchmark that uses fundus and OCT jointly during training while targeting fundus recognition at inference.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A multimodal benchmark that uses fundus and OCT jointly during training while ta
 | Label Types | Classification Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2024 |
 | Longitudinal | No |
 | Multimodal | Yes |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A multimodal benchmark that uses fundus and OCT jointly during training while ta
 | Label Space | Nine disease classes in the released training code |
 | Annotation Scope | Classification labels with unpaired fundus and OCT training support |
 | Official / Recommended Split | Train with multimodal data, evaluate on fundus-only recognition in the paper setting |
-| Structural Notes | Designed for OCT-enhanced recognition from fundus images rather than fully paired multimodal testing |
-
-## Why It Matters
-
-MultiEYE is interesting because it matches a realistic deployment story: OCT can help model development even when only fundus images are available at test time.
-
-## Highlights
-
-- Conceptually interesting because it targets fundus-only testing while still learning from OCT during training.
-- Useful if you care about realistic clinical deployment where OCT may not be available at inference time.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ MultiEYE is interesting because it matches a realistic deployment story: OCT can
 
 ## Tags
 
-`additional_curated`, `classification`, `oct`, `recognition`
+`oct`, `multimodal`, `classification`, `recognition`, `multitask`, `rgb_fundus_image`, `oct_image`, `clinical_data`, `classification_labels`, `additional_curated`

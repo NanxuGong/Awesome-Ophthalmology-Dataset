@@ -1,6 +1,5 @@
 # PALM_zhang
 
-A dataset for leision mask,pc,disc,fovea localization.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for leision mask,pc,disc,fovea localization.
 | Label Types | Segmentation Labels, Localization Labels, Landmark Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for leision mask,pc,disc,fovea localization.
 | Label Space | Myopia |
 | Annotation Scope | Localization |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Myopia |
-
-## Why It Matters
-
-PALM_zhang is useful because it brings leision mask,pc,disc,fovea localization into the catalog.
-
-## Highlights
-
-- Indexed under Myopia in the catalog.
-- Primary focus: localization.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ PALM_zhang is useful because it brings leision mask,pc,disc,fovea localization i
 
 ## Tags
 
-`fundus`, `localization`, `myopia`
+`fundus`, `localization`, `myopia`, `rgb_fundus_image`, `segmentation_labels`, `localization_labels`, `landmark_labels`

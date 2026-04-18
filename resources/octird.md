@@ -1,6 +1,5 @@
 # OCTIRD
 
-A dataset for -.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for -.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for -.
 | Label Space | - |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: OCT |
-
-## Why It Matters
-
-OCTIRD expands the public oct coverage in the catalog.
-
-## Highlights
-
-- Indexed under OCT in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ OCTIRD expands the public oct coverage in the catalog.
 
 ## Tags
 
-`benchmarking`, `oct`
+`oct`, `benchmarking`, `oct_image`

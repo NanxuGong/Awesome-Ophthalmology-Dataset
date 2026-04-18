@@ -1,6 +1,5 @@
 # GRAPE
 
-A longitudinal multimodal glaucoma dataset that combines fundus images, visual fields, OCT measurements, and follow-up structure.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A longitudinal multimodal glaucoma dataset that combines fundus images, visual f
 | Label Types | Grading Labels, Classification Labels, Progression Targets |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2015 |
 | Longitudinal | Yes |
 | Multimodal | Yes |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A longitudinal multimodal glaucoma dataset that combines fundus images, visual f
 | Label Space | Visual field progression, fundus images, OCT measurements, and disc-related annotations |
 | Annotation Scope | Longitudinal multimodal follow-up data |
 | Official / Recommended Split | Eye-level longitudinal split is a strong default because all visits from the same eye should stay together |
-| Structural Notes | Progression-oriented glaucoma dataset rather than a single-visit image benchmark |
-
-## Why It Matters
-
-GRAPE stands out because it supports progression-oriented glaucoma research instead of only one-visit detection or grading.
-
-## Highlights
-
-- A strong choice when progression prediction matters more than one-off classification.
-- Combines fundus, visual field, and clinical follow-up structure in one public package.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ GRAPE stands out because it supports progression-oriented glaucoma research inst
 
 ## Tags
 
-`classification`, `glaucoma`, `grading`, `oct`, `progression`
+`oct`, `multimodal`, `classification`, `grading`, `progression`, `multitask`, `glaucoma`, `rgb_fundus_image`, `oct_image`, `clinical_data`, `visual_field`, `classification_labels`, `grading_labels`, `longitudinal_dataset`

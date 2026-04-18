@@ -1,6 +1,5 @@
 # 2015_BOE_Chiu2
 
-A dataset for layer segmentation.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for layer segmentation.
 | Label Types | Segmentation Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2014 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for layer segmentation.
 | Label Space | - |
 | Annotation Scope | Segmentation |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: OCT |
-
-## Why It Matters
-
-2015_BOE_Chiu2 expands the public oct coverage in the catalog.
-
-## Highlights
-
-- Indexed under OCT in the catalog.
-- Primary focus: segmentation.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ A dataset for layer segmentation.
 
 ## Tags
 
-`oct`, `segmentation`
+`oct`, `segmentation`, `oct_image`, `segmentation_labels`

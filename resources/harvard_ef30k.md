@@ -1,6 +1,5 @@
 # Harvard-EF30k
 
-A dataset for 30k images,glaucoma,amd,dr.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for 30k images,glaucoma,amd,dr.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Request or Project Page |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for 30k images,glaucoma,amd,dr.
 | Label Space | 30k images,glaucoma,AMD,DR |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Glaucoma |
-
-## Why It Matters
-
-Harvard-EF30k is useful because it brings 30k images,glaucoma,amd,dr into the catalog.
-
-## Highlights
-
-- Indexed under Glaucoma in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ Harvard-EF30k is useful because it brings 30k images,glaucoma,amd,dr into the ca
 
 ## Tags
 
-`benchmarking`, `fundus`, `glaucoma`
+`fundus`, `benchmarking`, `glaucoma`, `amd`, `rgb_fundus_image`

@@ -1,6 +1,5 @@
 # OCT_Manual_Delineations-2018_June_29
 
-14 healthy controls (HC) and 21 patients with multiple sclerosis (MS).
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@
 | Label Space | - |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: OCT |
-
-## Why It Matters
-
-OCT_Manual_Delineations-2018_June_29 is useful because it brings 14 healthy controls (hc) and 21 patients with multiple sclerosis (ms) into the catalog.
-
-## Highlights
-
-- Indexed under OCT in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ OCT_Manual_Delineations-2018_June_29 is useful because it brings 14 healthy cont
 
 ## Tags
 
-`benchmarking`, `oct`
+`oct`, `benchmarking`, `oct_image`

@@ -1,6 +1,5 @@
 # SNP_Segmentation
 
-Segmentation of Neuronal Structures in Corneal Confocal Microscopy Images.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ Segmentation of Neuronal Structures in Corneal Confocal Microscopy Images.
 | Label Types | Segmentation Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2023 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ Segmentation of Neuronal Structures in Corneal Confocal Microscopy Images.
 | Label Space | Corneal Imaging |
 | Annotation Scope | Segmentation |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Segmentation & Classification |
-
-## Why It Matters
-
-SNP_Segmentation is useful because it brings segmentation of neuronal structures in corneal confocal microscopy images into the catalog.
-
-## Highlights
-
-- Indexed under Segmentation & Classification in the catalog.
-- Primary focus: segmentation.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ SNP_Segmentation is useful because it brings segmentation of neuronal structures
 
 ## Tags
 
-`corneal_imaging`, `corneal_microscopy`, `segmentation`, `segmentation_and_classification`
+`corneal_microscopy`, `segmentation`, `corneal_imaging`, `segmentation_labels`

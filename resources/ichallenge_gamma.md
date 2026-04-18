@@ -1,6 +1,5 @@
 # iChallenge-GAMMA
 
-Grading glaucoma,Segmentation of optic disc and cup,Localization of fovea macula.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ Grading glaucoma,Segmentation of optic disc and cup,Localization of fovea macula
 | Label Types | Segmentation Labels, Grading Labels, Localization Labels, Landmark Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Request or Project Page |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ Grading glaucoma,Segmentation of optic disc and cup,Localization of fovea macula
 | Label Space | Grading glaucoma,Segmentation of optic disc and cup,Localization of fovea macula |
 | Annotation Scope | Segmentation, Grading, Localization |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Glaucoma |
-
-## Why It Matters
-
-iChallenge-GAMMA is useful because it brings grading glaucoma,segmentation of optic disc and cup,localization of fovea macula into the catalog.
-
-## Highlights
-
-- Indexed under Glaucoma in the catalog.
-- Primary focus: segmentation, grading, localization.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ iChallenge-GAMMA is useful because it brings grading glaucoma,segmentation of op
 
 ## Tags
 
-`fundus`, `glaucoma`, `grading`, `localization`, `segmentation`
+`fundus`, `segmentation`, `grading`, `localization`, `multitask`, `glaucoma`, `rgb_fundus_image`, `segmentation_labels`, `grading_labels`, `localization_labels`, `landmark_labels`, `optic_disc`, `fovea`

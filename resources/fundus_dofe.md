@@ -1,6 +1,5 @@
 # Fundus-doFE
 
-Adopt the Domain Knowledge PoolMpoolto learn and memorizethe multi-source domain prior knowledge, enrich the image semantic featurehs.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ Adopt the Domain Knowledge PoolMpoolto learn and memorizethe multi-source domain
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2010 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ Adopt the Domain Knowledge PoolMpoolto learn and memorizethe multi-source domain
 | Label Space | Glaucoma |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Glaucoma |
-
-## Why It Matters
-
-Fundus-doFE is useful because it brings adopt the domain knowledge poolmpoolto learn and memorizethe multi-source domain prior knowledge, enrich the image semantic featurehs into the catalog.
-
-## Highlights
-
-- Indexed under Glaucoma in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ Fundus-doFE is useful because it brings adopt the domain knowledge poolmpoolto l
 
 ## Tags
 
-`benchmarking`, `fundus`, `glaucoma`
+`fundus`, `benchmarking`, `glaucoma`, `rgb_fundus_image`

@@ -1,6 +1,5 @@
 # Harvard glaucoma
 
-A glaucoma dataset with 3,300 images.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A glaucoma dataset with 3,300 images.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Request or Project Page |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A glaucoma dataset with 3,300 images.
 | Label Space | Glaucoma |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Glaucoma |
-
-## Why It Matters
-
-Harvard glaucoma expands the public glaucoma coverage in the catalog.
-
-## Highlights
-
-- Indexed under Glaucoma in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ Harvard glaucoma expands the public glaucoma coverage in the catalog.
 
 ## Tags
 
-`benchmarking`, `fundus`, `glaucoma`
+`fundus`, `benchmarking`, `glaucoma`, `rgb_fundus_image`

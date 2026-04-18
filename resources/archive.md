@@ -1,6 +1,5 @@
 # archive
 
-A dataset for heiderlberg_oct,rabbani_2015,spie_oct.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for heiderlberg_oct,rabbani_2015,spie_oct.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,25 +28,15 @@ A dataset for heiderlberg_oct,rabbani_2015,spie_oct.
 | Label Space | - |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: OCT |
-
-## Why It Matters
-
-archive expands the public oct coverage in the catalog.
-
-## Highlights
-
-- Indexed under OCT in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
 | Resource | Link |
 | --- | --- |
-| Official Resource | [Official Page](https://www.kaggle.com/datasets/kmader/eye-oct-datasets) |
+| Official Resource | [Kaggle](https://www.kaggle.com/datasets/kmader/eye-oct-datasets) |
 | Implementation / Code | - |
 | Primary Paper | - |
 
 ## Tags
 
-`benchmarking`, `oct`
+`oct`, `benchmarking`, `oct_image`

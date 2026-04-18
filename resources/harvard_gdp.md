@@ -1,6 +1,5 @@
 # Harvard glaucoma DP
 
-A longitudinal multimodal glaucoma dataset centered on OCT for detection and progression studies.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A longitudinal multimodal glaucoma dataset centered on OCT for detection and pro
 | Label Types | Classification Labels, Progression Targets |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Request or Project Page |
 | Release Year | 2023 |
 | Longitudinal | Yes |
 | Multimodal | Yes |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A longitudinal multimodal glaucoma dataset centered on OCT for detection and pro
 | Label Space | Glaucoma detection and progression labels |
 | Annotation Scope | Multimodal multitask labels centered on OCT imaging |
 | Official / Recommended Split | Follow the official release protocol on the project page or GitHub |
-| Structural Notes | Largest public glaucoma detection dataset with 3D OCT imaging according to the release paper |
-
-## Why It Matters
-
-Harvard-GDP matters because it moves beyond single-visit glaucoma screening and supports research on progression, multimodal learning, and demographic robustness.
-
-## Highlights
-
-- Important if you care about public glaucoma progression resources with OCT at the center.
-- Useful for fairness and generalization work because the release paper emphasizes demographic analysis.
 
 ## Official Links
 
@@ -49,8 +36,7 @@ Harvard-GDP matters because it moves beyond single-visit glaucoma screening and 
 | Official Resource | [Official Page](https://ophai.hms.harvard.edu/datasets/harvard-gdp1000) |
 | Implementation / Code | - |
 | Primary Paper | [ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Luo_Harvard_Glaucoma_Detection_and_Progression_A_Multimodal_Multitask_Dataset_and_ICCV_2023_paper.html) |
-| Primary Paper | [Primary Paper](https://arxiv.org/abs/2308.13411) |
 
 ## Tags
 
-`fundus`, `glaucoma`, `progression`
+`fundus`, `multimodal`, `progression`, `glaucoma`, `oct_image`, `visual_field`, `classification_labels`, `longitudinal_dataset`

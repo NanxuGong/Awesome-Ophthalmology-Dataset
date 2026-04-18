@@ -1,6 +1,5 @@
 # AMD_RPEDC
 
-A dataset for tr,rpedc volumn,rpedc abnormal,normal.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for tr,rpedc volumn,rpedc abnormal,normal.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2013 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for tr,rpedc volumn,rpedc abnormal,normal.
 | Label Space | TR,RPEDC volumn,RPEDC abnormal,normal |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Indexed under multiple tracks: AMD, OCT |
-
-## Why It Matters
-
-AMD_RPEDC is useful because it brings tr,rpedc volumn,rpedc abnormal,normal into the catalog.
-
-## Highlights
-
-- Indexed under AMD, OCT in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ AMD_RPEDC is useful because it brings tr,rpedc volumn,rpedc abnormal,normal into
 
 ## Tags
 
-`amd`, `benchmarking`, `oct`
+`retinal_imaging`, `benchmarking`, `amd`

@@ -1,6 +1,5 @@
 # PAPILA
 
-A glaucoma-focused fundus dataset with bilateral eye pairing, optic nerve annotations, and clinical context.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A glaucoma-focused fundus dataset with bilateral eye pairing, optic nerve annota
 | Label Types | Segmentation Labels, Classification Labels, Landmark Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2022 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A glaucoma-focused fundus dataset with bilateral eye pairing, optic nerve annota
 | Label Space | Glaucoma label plus optic disc and optic cup segmentations |
 | Annotation Scope | Classification labels, segmentation masks, and clinical metadata |
 | Official / Recommended Split | Patient-level split is strongly preferred to avoid left/right eye leakage |
-| Structural Notes | Bilateral glaucoma dataset with explicit pairing across eyes |
-
-## Why It Matters
-
-PAPILA is especially valuable when patient-level splitting matters, because both eyes are available and leakage can otherwise inflate results.
-
-## Highlights
-
-- A strong glaucoma benchmark when patient-level leakage matters.
-- Useful for work that combines fundus appearance with optic nerve head segmentation.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ PAPILA is especially valuable when patient-level splitting matters, because both
 
 ## Tags
 
-`classification`, `fundus`, `glaucoma`, `segmentation`
+`fundus`, `classification`, `segmentation`, `multitask`, `glaucoma`, `rgb_fundus_image`, `clinical_data`, `text_data`, `segmentation_labels`, `classification_labels`, `landmark_labels`, `optic_disc`, `optic_cup`

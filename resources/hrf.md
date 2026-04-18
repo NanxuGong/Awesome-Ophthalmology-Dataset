@@ -1,6 +1,5 @@
 # HRF
 
-A dataset for vessel segmentation of fundus image.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for vessel segmentation of fundus image.
 | Label Types | Segmentation Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2013 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for vessel segmentation of fundus image.
 | Label Space | Retinal Vessel Analysis |
 | Annotation Scope | Segmentation |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Segmentation & Classification |
-
-## Why It Matters
-
-HRF is useful because it brings vessel segmentation of fundus image into the catalog.
-
-## Highlights
-
-- Indexed under Segmentation & Classification in the catalog.
-- Primary focus: segmentation.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ HRF is useful because it brings vessel segmentation of fundus image into the cat
 
 ## Tags
 
-`fundus`, `retinal_vessel_analysis`, `segmentation`, `segmentation_and_classification`
+`fundus`, `segmentation`, `retinal_vessel_analysis`, `rgb_fundus_image`, `segmentation_labels`

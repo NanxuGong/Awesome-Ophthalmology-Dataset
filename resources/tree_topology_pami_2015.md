@@ -1,6 +1,5 @@
 # Tree_topology_PAMI_2015
 
-A dataset for segment vessel trees.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for segment vessel trees.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2015 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for segment vessel trees.
 | Label Space | Retinal Vessel Analysis |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Segmentation & Classification |
-
-## Why It Matters
-
-Tree_topology_PAMI_2015 expands the public segmentation & classification coverage in the catalog.
-
-## Highlights
-
-- Indexed under Segmentation & Classification in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ Tree_topology_PAMI_2015 expands the public segmentation & classification coverag
 
 ## Tags
 
-`benchmarking`, `fundus`, `retinal_vessel_analysis`, `segmentation_and_classification`
+`fundus`, `benchmarking`, `retinal_vessel_analysis`, `rgb_fundus_image`

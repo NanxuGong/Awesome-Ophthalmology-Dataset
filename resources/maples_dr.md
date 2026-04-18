@@ -1,6 +1,5 @@
 # MAPLES-DR
 
-A dataset for new diagnoses for dr and me.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for new diagnoses for dr and me.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for new diagnoses for dr and me.
 | Label Space | Diabetic Retinopathy |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Diabetic Retinopathy |
-
-## Why It Matters
-
-MAPLES-DR is useful because it brings new diagnoses for dr and me into the catalog.
-
-## Highlights
-
-- Indexed under Diabetic Retinopathy in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ MAPLES-DR is useful because it brings new diagnoses for dr and me into the catal
 
 ## Tags
 
-`benchmarking`, `diabetic_retinopathy`, `fundus`
+`fundus`, `benchmarking`, `diabetic_retinopathy`, `rgb_fundus_image`

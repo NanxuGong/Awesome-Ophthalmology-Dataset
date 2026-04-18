@@ -1,7 +1,7 @@
 # Resources
 
-Detailed profile pages for the catalog entries live here.
 
+- [Resource Profile Spec](RESOURCE_PROFILE_SPEC.md)
 - [2011_IOVS_Chiu](d_2011_iovs_chiu.md)
 - [2013_BOE_Chiu](d_2013_boe_chiu.md)
 - [2014_BOE_Srinivasan](d_2014_boe_srinivasan.md)

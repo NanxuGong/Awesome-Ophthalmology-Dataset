@@ -1,6 +1,5 @@
 # IRFUNDUSSET
 
-Fundus image, a dataset that consolidates, harmonizes and curates several public datasets.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ Fundus image, a dataset that consolidates, harmonizes and curates several public
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ Fundus image, a dataset that consolidates, harmonizes and curates several public
 | Label Space | Multi-disease |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Multi-disease |
-
-## Why It Matters
-
-IRFUNDUSSET is useful because it brings fundus image, a dataset that consolidates, harmonizes and curates several public datasets into the catalog.
-
-## Highlights
-
-- Indexed under Multi-disease in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ IRFUNDUSSET is useful because it brings fundus image, a dataset that consolidate
 
 ## Tags
 
-`benchmarking`, `fundus`, `multdiseases`, `multi_disease`
+`fundus`, `benchmarking`, `multi_disease`, `rgb_fundus_image`

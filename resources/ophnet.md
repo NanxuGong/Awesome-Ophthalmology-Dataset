@@ -1,6 +1,5 @@
 # OphNet
 
-A Large-Scale Video Benchmark for Ophthalmic Surgical Workflow Understanding.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A Large-Scale Video Benchmark for Ophthalmic Surgical Workflow Understanding.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2024 |
 | Longitudinal | No |
 | Multimodal | Yes |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A Large-Scale Video Benchmark for Ophthalmic Surgical Workflow Understanding.
 | Label Space | - |
 | Annotation Scope | Workflow Understanding |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Multimodal |
-
-## Why It Matters
-
-OphNet is useful because it brings a large-scale video benchmark for ophthalmic surgical workflow understanding into the catalog.
-
-## Highlights
-
-- Indexed under Multimodal in the catalog.
-- Primary focus: workflow understanding.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ OphNet is useful because it brings a large-scale video benchmark for ophthalmic 
 
 ## Tags
 
-`multimodal`, `multmodal`, `workflow_understanding`
+`multimodal`, `workflow_understanding`, `video`

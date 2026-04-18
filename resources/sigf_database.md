@@ -1,6 +1,5 @@
 # SIGF-database
 
-A dataset for glaucoma forecast using the sequential fundus images.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for glaucoma forecast using the sequential fundus images.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2018 |
 | Longitudinal | Yes |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,25 +28,15 @@ A dataset for glaucoma forecast using the sequential fundus images.
 | Label Space | Glaucoma |
 | Annotation Scope | Forecasting |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Longitudinal |
-
-## Why It Matters
-
-SIGF-database is useful because it brings glaucoma forecast using the sequential fundus images into the catalog.
-
-## Highlights
-
-- Indexed under Longitudinal in the catalog.
-- Primary focus: forecasting.
 
 ## Official Links
 
 | Resource | Link |
 | --- | --- |
-| Official Resource | [Official Page](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_60) |
+| Official Resource | [Springer](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_60) |
 | Implementation / Code | [GitHub](https://github.com/XiaofeiWang2018/DeepGF) |
 | Primary Paper | - |
 
 ## Tags
 
-`forecasting`, `fundus`, `glaucoma`, `logitudinal`
+`fundus`, `forecasting`, `glaucoma`, `rgb_fundus_image`, `longitudinal_dataset`

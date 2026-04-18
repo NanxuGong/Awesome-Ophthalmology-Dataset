@@ -1,6 +1,5 @@
 # THOCT1800
 
-1,800 preprocessed retinal SD-OCT B-scans (600 AMD, 600 DME, and 600 NOR).
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@
 | Label Space | 1,800 preprocessed retinal SD-OCT B-scans (600 AMD, 600 DME, and 600 NOR) |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: OCT |
-
-## Why It Matters
-
-THOCT1800 is useful because it brings 1800 preprocessed retinal sd-oct b-scans (600 amd, 600 dme, and 600 nor) into the catalog.
-
-## Highlights
-
-- Indexed under OCT in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ THOCT1800 is useful because it brings 1800 preprocessed retinal sd-oct b-scans (
 
 ## Tags
 
-`amd`, `benchmarking`, `oct`
+`oct`, `benchmarking`, `amd`, `oct_image`

@@ -1,6 +1,5 @@
 # 2014_BOE_Srinivasan
 
-A dataset for -.
 
 ## Dataset Information
 
@@ -9,47 +8,35 @@ A dataset for -.
 | Official Name | 2014_BOE_Srinivasan |
 | Modality | OCT |
 | Submodality | Retinal OCT |
-| Tasks | Benchmarking |
-| Disease Focus | - |
+| Tasks | Classification |
+| Disease Focus | Dry AMD; DME |
 | Input Signals | OCT Image |
-| Label Types | - |
-| Sample Unit | - |
+| Label Types | Classification Labels |
+| Sample Unit | Volumetric OCT Scan |
 | Split Unit | - |
-| Access | Public |
-| Release Year | - |
+| Release Year | 2014 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
 | Field | Value |
 | --- | --- |
-| Reported Scale | - |
-| Reported Cohort | - |
-| Reported Breakdown | - |
-| Label Space | - |
-| Annotation Scope | Benchmarking |
+| Reported Scale | 45 volumetric OCT scans |
+| Reported Cohort | 45 patients |
+| Reported Breakdown | 15 normal; 15 dry AMD; 15 DME |
+| Label Space | Normal; Dry AMD; DME |
+| Annotation Scope | Disease classification |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: OCT |
-
-## Why It Matters
-
-2014_BOE_Srinivasan expands the public oct coverage in the catalog.
-
-## Highlights
-
-- Indexed under OCT in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
 | Resource | Link |
 | --- | --- |
-| Official Resource | [Paper](https://ieeexplore.ieee.org/document/9190742) |
+| Official Resource | [Official Dataset Page](http://people.duke.edu/~sf59/Srinivasan_BOE_2014_dataset.htm) |
 | Implementation / Code | [GitHub](https://github.com/SharifAmit/Robust_Joint_Attention?tab=readme-ov-file) |
-| Primary Paper | - |
+| Primary Paper | [Primary Paper](http://www.opticsinfobase.org/boe/abstract.cfm?uri=boe-5-10-3568) |
 
 ## Tags
 
-`benchmarking`, `oct`
+`oct`, `classification`, `amd`, `multi_disease`, `oct_image`, `classification_labels`

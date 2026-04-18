@@ -1,6 +1,5 @@
 # HarvardFairSeg10k
 
-A dataset for segmentation.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for segmentation.
 | Label Types | Segmentation Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for segmentation.
 | Label Space | Glaucoma |
 | Annotation Scope | Segmentation |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Glaucoma |
-
-## Why It Matters
-
-HarvardFairSeg10k expands the public glaucoma coverage in the catalog.
-
-## Highlights
-
-- Indexed under Glaucoma in the catalog.
-- Primary focus: segmentation.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ HarvardFairSeg10k expands the public glaucoma coverage in the catalog.
 
 ## Tags
 
-`fundus`, `glaucoma`, `segmentation`
+`fundus`, `segmentation`, `glaucoma`, `rgb_fundus_image`, `segmentation_labels`

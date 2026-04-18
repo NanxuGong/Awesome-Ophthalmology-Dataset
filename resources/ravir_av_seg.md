@@ -1,6 +1,5 @@
 # RAVIR_AV_seg
 
-A dataset for -.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for -.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for -.
 | Label Space | - |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Segmentation & Classification |
-
-## Why It Matters
-
-RAVIR_AV_seg expands the public segmentation & classification coverage in the catalog.
-
-## Highlights
-
-- Indexed under Segmentation & Classification in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ RAVIR_AV_seg expands the public segmentation & classification coverage in the ca
 
 ## Tags
 
-`benchmarking`, `fundus`, `segmentation_and_classification`
+`fundus`, `benchmarking`, `rgb_fundus_image`

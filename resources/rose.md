@@ -1,6 +1,5 @@
 # ROSE
 
-A compact OCTA segmentation benchmark centered on retinal vessel analysis.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A compact OCTA segmentation benchmark centered on retinal vessel analysis.
 | Label Types | Segmentation Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2007 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A compact OCTA segmentation benchmark centered on retinal vessel analysis.
 | Label Space | Retinal vessel segmentation targets; related OCTA studies often pair vessel and FAZ evaluation |
 | Annotation Scope | Centerline-level or pixel-level vessel annotations depending on subset |
 | Official / Recommended Split | - |
-| Structural Notes | Dedicated OCTA segmentation benchmark with lighter scale than OCTA-500 |
-
-## Why It Matters
-
-ROSE is a practical starting point for OCTA method development when you want something lighter than OCTA-500 but still established in the literature.
-
-## Highlights
-
-- A compact OCTA benchmark that is easier to start with than OCTA-500.
-- Often used to test vessel-focused OCTA segmentation methods.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ ROSE is a practical starting point for OCTA method development when you want som
 
 ## Tags
 
-`octa`, `retinal_vessel_analysis`, `segmentation`, `segmentation_and_classification`
+`octa`, `segmentation`, `retinal_vessel_analysis`, `faz_analysis`, `octa_image`, `segmentation_labels`

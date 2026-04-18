@@ -1,6 +1,5 @@
 # mmRV-v1
 
-A dataset for fundus-octa.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for fundus-octa.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for fundus-octa.
 | Label Space | - |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Segmentation & Classification |
-
-## Why It Matters
-
-mmRV-v1 expands the public segmentation & classification coverage in the catalog.
-
-## Highlights
-
-- Indexed under Segmentation & Classification in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ mmRV-v1 expands the public segmentation & classification coverage in the catalog
 
 ## Tags
 
-`benchmarking`, `octa`, `segmentation_and_classification`
+`octa`, `benchmarking`, `rgb_fundus_image`, `octa_image`

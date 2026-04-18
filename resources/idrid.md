@@ -1,6 +1,5 @@
 # IDRiD
 
-A classic diabetic retinopathy benchmark that combines grading, lesion masks, and landmark annotations.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A classic diabetic retinopathy benchmark that combines grading, lesion masks, an
 | Label Types | Segmentation Labels, Grading Labels, Localization Labels, Landmark Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Request or Project Page |
 | Release Year | 2018 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A classic diabetic retinopathy benchmark that combines grading, lesion masks, an
 | Label Space | DR grade, DME grade, four lesion types, optic disc, and fovea center |
 | Annotation Scope | Image-level grading, pixel-level lesion masks, and landmark localization |
 | Official / Recommended Split | Official challenge-style partitions are widely reused in later work |
-| Structural Notes | Single disease-family benchmark that spans grading, segmentation, and localization |
-
-## Why It Matters
-
-IDRiD remains a rare public fundus release that supports both disease-level evaluation and lesion-aware analysis within the same benchmark family.
-
-## Highlights
-
-- A rare public dataset that supports both grading and lesion-level evaluation in the same release.
-- Often used as the anchor benchmark for diabetic retinopathy lesion segmentation.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ IDRiD remains a rare public fundus release that supports both disease-level eval
 
 ## Tags
 
-`diabetic_retinopathy`, `fundus`, `grading`, `localization`, `segmentation`
+`fundus`, `segmentation`, `grading`, `localization`, `multitask`, `diabetic_retinopathy`, `rgb_fundus_image`, `clinical_data`, `segmentation_labels`, `grading_labels`, `localization_labels`, `landmark_labels`, `lesion_labels`, `optic_disc`, `fovea`

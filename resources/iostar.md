@@ -1,6 +1,5 @@
 # IOSTAR
 
-A dataset for retinal vessel segmentation.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for retinal vessel segmentation.
 | Label Types | Segmentation Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for retinal vessel segmentation.
 | Label Space | Retinal Vessel Analysis |
 | Annotation Scope | Segmentation |
 | Official / Recommended Split | - |
-| Structural Notes | Indexed under multiple tracks: Segmentation & Classification, Registration |
-
-## Why It Matters
-
-IOSTAR expands the public segmentation & classification coverage in the catalog.
-
-## Highlights
-
-- Indexed under Segmentation & Classification, Registration in the catalog.
-- Primary focus: segmentation.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ IOSTAR expands the public segmentation & classification coverage in the catalog.
 
 ## Tags
 
-`fundus`, `registration`, `retinal_vessel_analysis`, `segmentation`, `segmentation_and_classification`
+`fundus`, `segmentation`, `retinal_vessel_analysis`, `rgb_fundus_image`, `segmentation_labels`

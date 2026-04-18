@@ -1,6 +1,5 @@
 # LongDRScreening_20150209
 
-A dataset for fundus image registration method.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for fundus image registration method.
 | Label Types | Registration Pairs |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for fundus image registration method.
 | Label Space | Diabetic Retinopathy |
 | Annotation Scope | Registration |
 | Official / Recommended Split | - |
-| Structural Notes | Indexed under multiple tracks: Diabetic Retinopathy, Longitudinal, Registration |
-
-## Why It Matters
-
-LongDRScreening_20150209 expands the public diabetic retinopathy coverage in the catalog.
-
-## Highlights
-
-- Indexed under Diabetic Retinopathy, Longitudinal, Registration in the catalog.
-- Primary focus: registration.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ LongDRScreening_20150209 expands the public diabetic retinopathy coverage in the
 
 ## Tags
 
-`diabetic_retinopathy`, `fundus`, `logitudinal`, `registration`
+`fundus`, `registration`, `diabetic_retinopathy`, `rgb_fundus_image`, `registration_pairs`

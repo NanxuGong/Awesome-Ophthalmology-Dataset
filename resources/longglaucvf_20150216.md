@@ -1,6 +1,5 @@
 # LongGlaucVF_20150216
 
-A dataset for visual field.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for visual field.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | Yes |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for visual field.
 | Label Space | Glaucoma |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Glaucoma |
-
-## Why It Matters
-
-LongGlaucVF_20150216 expands the public glaucoma coverage in the catalog.
-
-## Highlights
-
-- Indexed under Glaucoma in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -49,8 +36,7 @@ LongGlaucVF_20150216 expands the public glaucoma coverage in the catalog.
 | Official Resource | [Official Page](http://www.rodrep.com/longitudinal-glaucomatous-vf-data---description.html) |
 | Implementation / Code | [GitHub](https://github.com/emma-sjwang/Dofe) |
 | Primary Paper | - |
-| Project Page | [Project Page](http://rod-rep.com) |
 
 ## Tags
 
-`benchmarking`, `fundus`, `glaucoma`
+`fundus`, `multimodal`, `benchmarking`, `glaucoma`, `visual_field`

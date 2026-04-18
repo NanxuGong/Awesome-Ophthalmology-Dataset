@@ -1,6 +1,5 @@
 # DRSeg_TJDR
 
-High-Quality Diabetic Retinopathy Pixel-Level Annotation Dataset.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ High-Quality Diabetic Retinopathy Pixel-Level Annotation Dataset.
 | Label Types | Quality Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ High-Quality Diabetic Retinopathy Pixel-Level Annotation Dataset.
 | Label Space | Diabetic Retinopathy |
 | Annotation Scope | Quality Assessment |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Diabetic Retinopathy |
-
-## Why It Matters
-
-DRSeg_TJDR is useful because it brings high-quality diabetic retinopathy pixel-level annotation dataset into the catalog.
-
-## Highlights
-
-- Indexed under Diabetic Retinopathy in the catalog.
-- Primary focus: quality assessment.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ DRSeg_TJDR is useful because it brings high-quality diabetic retinopathy pixel-l
 
 ## Tags
 
-`diabetic_retinopathy`, `fundus`, `quality_assessment`
+`fundus`, `quality_assessment`, `diabetic_retinopathy`, `rgb_fundus_image`, `quality_labels`

@@ -1,6 +1,5 @@
 # octlayerdataverse_files
 
-Different retinal OCT images with different pathological conditions.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ Different retinal OCT images with different pathological conditions.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ Different retinal OCT images with different pathological conditions.
 | Label Space | - |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: OCT |
-
-## Why It Matters
-
-octlayerdataverse_files is useful because it brings different retinal oct images with different pathological conditions into the catalog.
-
-## Highlights
-
-- Indexed under OCT in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ octlayerdataverse_files is useful because it brings different retinal oct images
 
 ## Tags
 
-`benchmarking`, `oct`
+`oct`, `benchmarking`, `oct_image`

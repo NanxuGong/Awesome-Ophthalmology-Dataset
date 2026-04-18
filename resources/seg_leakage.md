@@ -1,6 +1,5 @@
 # Seg_leakage
 
-A dataset for segmentation of fluorescein leakage.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for segmentation of fluorescein leakage.
 | Label Types | Segmentation Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2014 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for segmentation of fluorescein leakage.
 | Label Space | - |
 | Annotation Scope | Segmentation |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Segmentation & Classification |
-
-## Why It Matters
-
-Seg_leakage expands the public segmentation & classification coverage in the catalog.
-
-## Highlights
-
-- Indexed under Segmentation & Classification in the catalog.
-- Primary focus: segmentation.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ Seg_leakage expands the public segmentation & classification coverage in the cat
 
 ## Tags
 
-`fundus`, `segmentation`, `segmentation_and_classification`
+`fundus`, `segmentation`, `rgb_fundus_image`, `segmentation_labels`

@@ -1,6 +1,5 @@
 # OCTDL
 
-A newer OCT dataset with broader disease coverage and richer pathology metadata than older four-class baselines.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A newer OCT dataset with broader disease coverage and richer pathology metadata 
 | Label Types | Classification Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2017 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A newer OCT dataset with broader disease coverage and richer pathology metadata 
 | Label Space | Six disease groups with extra pathology-level metadata |
 | Annotation Scope | Image-level disease labels plus pathology annotations |
 | Official / Recommended Split | - |
-| Structural Notes | Macular raster scans organized by disease label on Mendeley |
-
-## Why It Matters
-
-OCTDL is useful when OCT2017 feels too narrow and you want a more recent classification benchmark with more clinically varied categories.
-
-## Highlights
-
-- A more recent and clinically broader alternative to the classic four-class OCT baselines.
-- The additional pathology CSV gives you more room than a single coarse disease label.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ OCTDL is useful when OCT2017 feels too narrow and you want a more recent classif
 
 ## Tags
 
-`classification`, `oct`
+`oct`, `classification`, `oct_image`, `clinical_data`, `classification_labels`

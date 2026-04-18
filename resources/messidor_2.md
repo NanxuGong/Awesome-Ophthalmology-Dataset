@@ -1,6 +1,5 @@
 # MESSIDOR-2
 
-A dataset for how does the prediction model performs on test dataset that is from a different source; diabetic retinopathy classification from fundus images.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for how does the prediction model performs on test dataset that is fro
 | Label Types | Classification Labels |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | 2019 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for how does the prediction model performs on test dataset that is fro
 | Label Space | Diabetic Retinopathy |
 | Annotation Scope | Classification |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Diabetic Retinopathy |
-
-## Why It Matters
-
-MESSIDOR-2 is useful because it brings how does the prediction model performs on test dataset that is from a different source; diabetic retinopathy classification from fundus images into the catalog.
-
-## Highlights
-
-- Indexed under Diabetic Retinopathy in the catalog.
-- Primary focus: classification.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ MESSIDOR-2 is useful because it brings how does the prediction model performs on
 
 ## Tags
 
-`classification`, `diabetic_retinopathy`, `fundus`
+`fundus`, `classification`, `diabetic_retinopathy`, `rgb_fundus_image`, `classification_labels`

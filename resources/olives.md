@@ -1,6 +1,5 @@
 # OLIVES
 
-99 eyes' data averaged over a period of at least two years with each eye treated for an average of 66 weeks and 7 injections.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Public |
 | Release Year | - |
 | Longitudinal | Yes |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@
 | Label Space | - |
 | Annotation Scope | Longitudinal Analysis |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Longitudinal |
-
-## Why It Matters
-
-OLIVES is useful because it brings 99 eyes' data averaged over a period of at least two years with each eye treated for an average of 66 weeks and 7 injections into the catalog.
-
-## Highlights
-
-- Indexed under Longitudinal in the catalog.
-- Primary focus: longitudinal analysis.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ OLIVES is useful because it brings 99 eyes' data averaged over a period of at le
 
 ## Tags
 
-`logitudinal`, `longitudinal_analysis`
+`retinal_imaging`, `longitudinal_analysis`, `longitudinal_dataset`

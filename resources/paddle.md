@@ -1,6 +1,5 @@
 # Paddle
 
-A dataset for ichallenge dataset,baidu.
 
 ## Dataset Information
 
@@ -15,11 +14,9 @@ A dataset for ichallenge dataset,baidu.
 | Label Types | - |
 | Sample Unit | - |
 | Split Unit | - |
-| Access | Request or Project Page |
 | Release Year | - |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | - |
 
 ## Statistics
 
@@ -31,16 +28,6 @@ A dataset for ichallenge dataset,baidu.
 | Label Space | Myopia |
 | Annotation Scope | Benchmarking |
 | Official / Recommended Split | - |
-| Structural Notes | Primary catalog track: Myopia |
-
-## Why It Matters
-
-Paddle expands the public myopia coverage in the catalog.
-
-## Highlights
-
-- Indexed under Myopia in the catalog.
-- Primary focus: benchmarking.
 
 ## Official Links
 
@@ -52,4 +39,4 @@ Paddle expands the public myopia coverage in the catalog.
 
 ## Tags
 
-`benchmarking`, `fundus`, `myopia`
+`fundus`, `benchmarking`, `myopia`, `rgb_fundus_image`
