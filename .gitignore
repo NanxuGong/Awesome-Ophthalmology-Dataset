@@ -1,0 +1,43 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+.DS_Store
+
+# Local editor and tooling state
+.idea/
+.vscode/
+
+# Generated helper artifacts
+dataset_table.md
+tag_index.yaml
+.internal/dataset_table.md
+.internal/tag_index.yaml
+plan.txt
+
+# Local internal workspace
+.internal/
+
+# Local download / preprocessing workspace
+downloads/
+raw/
+data/
+prepared/
+artifacts/
+tmp/
+temp/
+
+# Common archive and large local files
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Notebook checkpoints
+.ipynb_checkpoints/
