@@ -1,4 +1,4 @@
-# Retinal Fundus Multi-Disease Image Dataset
+# RFMiD
 
 A large public fundus benchmark for multi-label retinal disease screening and recognition.
 
@@ -6,14 +6,14 @@ A large public fundus benchmark for multi-label retinal disease screening and re
 
 | Field | Value |
 | --- | --- |
-| Official Name | Retinal Fundus Multi-Disease Image Dataset |
+| Official Name | RFMiD |
 | Modality | Fundus |
-| Submodality | Color Fundus |
-| Tasks | Multi-label Classification |
-| Disease Focus | Multi Disease |
+| Submodality | Retinal Fundus |
+| Tasks | Classification, Recognition |
+| Disease Focus | Multi-disease |
 | Input Signals | RGB Fundus Image |
-| Label Types | Multilabel Disease Annotations |
-| Sample Unit | Image |
+| Label Types | Classification Labels |
+| Sample Unit | - |
 | Split Unit | - |
 | Access | Public |
 | Release Year | 2021 |
@@ -25,9 +25,9 @@ A large public fundus benchmark for multi-label retinal disease screening and re
 
 | Field | Value |
 | --- | --- |
-| Scale | 3,200 color fundus images |
-| Cohort | - |
-| Sample Breakdown | Image-level release for multi-label retinal disease recognition |
+| Reported Scale | 3,200 color fundus images |
+| Reported Cohort | - |
+| Reported Breakdown | Image-level release for multi-label retinal disease recognition |
 | Label Space | Normal/abnormal screening plus 45 disease categories |
 | Annotation Scope | Image-level multi-label disease annotations |
 | Official / Recommended Split | Official train/validation/test split: 1,920 / 640 / 640 |
@@ -42,18 +42,14 @@ RFMiD is one of the clearest public options when you want many disease labels in
 - One of the cleanest public baselines for multi-disease fundus classification.
 - Useful when you want a single benchmark to cover many retinal conditions at once.
 
-## Caveats
-
-- Published results are not always directly comparable unless the same official split and label formulation are used.
-- Some papers collapse the multi-label setting into simpler tasks, so check protocol details before comparing numbers.
-
-## Resource Links
+## Official Links
 
 | Resource | Link |
 | --- | --- |
 | Official Resource | [IEEE DataPort](https://ieee-dataport.org/open-access/retinal-fundus-multi-disease-image-dataset-rfmid) |
+| Implementation / Code | - |
 | Primary Paper | [Data 2021](https://doi.org/10.3390/data6020014) |
 
 ## Tags
 
-`image_level`, `multilabel`, `screening`
+`classification`, `fundus`, `multdiseases`, `multi_disease`, `recognition`

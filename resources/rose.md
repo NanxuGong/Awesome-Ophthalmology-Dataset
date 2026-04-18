@@ -8,26 +8,26 @@ A compact OCTA segmentation benchmark centered on retinal vessel analysis.
 | --- | --- |
 | Official Name | ROSE |
 | Modality | OCTA |
-| Submodality | Retinal OCTA Projection |
+| Submodality | Retinal OCTA |
 | Tasks | Segmentation |
-| Disease Focus | Vessel Segmentation, FAZ Segmentation |
-| Input Signals | OCTA Projection Image |
-| Label Types | Vessel Mask, FAZ Mask |
-| Sample Unit | Image |
-| Split Unit | Image |
+| Disease Focus | Retinal Vessel Analysis |
+| Input Signals | OCTA Image |
+| Label Types | Segmentation Labels |
+| Sample Unit | - |
+| Split Unit | - |
 | Access | Public |
-| Release Year | 2024 |
+| Release Year | 2007 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | Zenodo Terms |
+| License / Terms | - |
 
 ## Statistics
 
 | Field | Value |
 | --- | --- |
-| Scale | 229 OCTA images |
-| Cohort | - |
-| Sample Breakdown | ROSE-1 and ROSE-2 subsets are commonly used together |
+| Reported Scale | 229 OCTA images |
+| Reported Cohort | - |
+| Reported Breakdown | ROSE-1 and ROSE-2 subsets are commonly used together |
 | Label Space | Retinal vessel segmentation targets; related OCTA studies often pair vessel and FAZ evaluation |
 | Annotation Scope | Centerline-level or pixel-level vessel annotations depending on subset |
 | Official / Recommended Split | - |
@@ -42,18 +42,14 @@ ROSE is a practical starting point for OCTA method development when you want som
 - A compact OCTA benchmark that is easier to start with than OCTA-500.
 - Often used to test vessel-focused OCTA segmentation methods.
 
-## Caveats
-
-- Subset conventions differ across papers, so always report whether ROSE-1, ROSE-2, or both were used.
-- Small scale makes variance across splits and augmentations more noticeable.
-
-## Resource Links
+## Official Links
 
 | Resource | Link |
 | --- | --- |
-| Official Resource | [Zenodo](https://zenodo.org/records/12775880) |
-| Primary Paper | [arXiv 2020](https://arxiv.org/abs/2007.05201) |
+| Official Resource | [Paper](https://arxiv.org/abs/2007.05201) |
+| Implementation / Code | - |
+| Primary Paper | - |
 
 ## Tags
 
-`octa`, `pixel_level`, `vessel_segmentation`, `faz_segmentation`
+`octa`, `retinal_vessel_analysis`, `segmentation`, `segmentation_and_classification`

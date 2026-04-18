@@ -7,16 +7,16 @@ A longitudinal multimodal glaucoma dataset that combines fundus images, visual f
 | Field | Value |
 | --- | --- |
 | Official Name | GRAPE |
-| Modality | Multimodal |
-| Submodality | Fundus / VF / Clinical Follow-up |
-| Tasks | Progression, Segmentation |
+| Modality | OCT |
+| Submodality | Retinal OCT |
+| Tasks | Classification, Grading, Progression |
 | Disease Focus | Glaucoma |
-| Input Signals | Fundus Image, Visual Field, Clinical Information, Follow-up Record |
-| Label Types | Visual Field Progression, Disc-related Annotations, Follow-up Metadata |
-| Sample Unit | Visit |
-| Split Unit | Eye |
+| Input Signals | RGB Fundus Image, OCT Image, Visual Field, Clinical Data |
+| Label Types | Grading Labels, Classification Labels, Progression Targets |
+| Sample Unit | - |
+| Split Unit | - |
 | Access | Public |
-| Release Year | 2023 |
+| Release Year | 2015 |
 | Longitudinal | Yes |
 | Multimodal | Yes |
 | License / Terms | - |
@@ -25,9 +25,9 @@ A longitudinal multimodal glaucoma dataset that combines fundus images, visual f
 
 | Field | Value |
 | --- | --- |
-| Scale | 1,115 longitudinal records |
-| Cohort | 144 glaucoma patients / 263 eyes |
-| Sample Breakdown | Baseline and follow-up visits collected from 2015 to 2022 |
+| Reported Scale | 1,115 longitudinal records |
+| Reported Cohort | 144 glaucoma patients / 263 eyes |
+| Reported Breakdown | Baseline and follow-up visits collected from 2015 to 2022 |
 | Label Space | Visual field progression, fundus images, OCT measurements, and disc-related annotations |
 | Annotation Scope | Longitudinal multimodal follow-up data |
 | Official / Recommended Split | Eye-level longitudinal split is a strong default because all visits from the same eye should stay together |
@@ -42,17 +42,14 @@ GRAPE stands out because it supports progression-oriented glaucoma research inst
 - A strong choice when progression prediction matters more than one-off classification.
 - Combines fundus, visual field, and clinical follow-up structure in one public package.
 
-## Caveats
-
-- Temporal leakage is easy to introduce if visits are split incorrectly.
-- Evaluation protocols should state the prediction horizon and whether baseline-only or full-history inputs are used.
-
-## Resource Links
+## Official Links
 
 | Resource | Link |
 | --- | --- |
-| Official Resource | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10404253/) |
+| Official Resource | [Nature](https://www.nature.com/articles/s41597-023-02424-4) |
+| Implementation / Code | - |
+| Primary Paper | [PMC / GRAPE paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC10404253/) |
 
 ## Tags
 
-`longitudinal`, `glaucoma`, `visit_level`, `paired_multimodal`, `vf_estimation`
+`classification`, `glaucoma`, `grading`, `oct`, `progression`

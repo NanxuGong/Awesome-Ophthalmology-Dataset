@@ -1,0 +1,55 @@
+# OCT_Manual_Delineations-2018_June_29
+
+14 healthy controls (HC) and 21 patients with multiple sclerosis (MS).
+
+## Dataset Information
+
+| Field | Value |
+| --- | --- |
+| Official Name | OCT_Manual_Delineations-2018_June_29 |
+| Modality | OCT |
+| Submodality | Retinal OCT |
+| Tasks | Benchmarking |
+| Disease Focus | - |
+| Input Signals | OCT Image |
+| Label Types | - |
+| Sample Unit | - |
+| Split Unit | - |
+| Access | Public |
+| Release Year | - |
+| Longitudinal | No |
+| Multimodal | No |
+| License / Terms | - |
+
+## Statistics
+
+| Field | Value |
+| --- | --- |
+| Reported Scale | 21 patients |
+| Reported Cohort | - |
+| Reported Breakdown | 14 healthy controls (HC) and 21 patients with multiple sclerosis (MS) |
+| Label Space | - |
+| Annotation Scope | Benchmarking |
+| Official / Recommended Split | - |
+| Structural Notes | Primary catalog track: OCT |
+
+## Why It Matters
+
+OCT_Manual_Delineations-2018_June_29 is useful because it brings 14 healthy controls (hc) and 21 patients with multiple sclerosis (ms) into the catalog.
+
+## Highlights
+
+- Indexed under OCT in the catalog.
+- Primary focus: benchmarking.
+
+## Official Links
+
+| Resource | Link |
+| --- | --- |
+| Official Resource | [Official Page](https://iacl.ece.jhu.edu/index.php?title=Main_Page) |
+| Implementation / Code | - |
+| Primary Paper | [Primary Paper](https://www.data-in-brief.com/article/S2352-3409(18) |
+
+## Tags
+
+`benchmarking`, `oct`

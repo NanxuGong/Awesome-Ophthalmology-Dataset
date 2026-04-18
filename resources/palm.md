@@ -8,26 +8,26 @@ A challenge-style fundus benchmark for pathological myopia with disease, lesion,
 | --- | --- |
 | Official Name | PALM |
 | Modality | Fundus |
-| Submodality | Color Fundus |
-| Tasks | Classification, Segmentation |
-| Disease Focus | Pathological Myopia |
+| Submodality | Retinal Fundus |
+| Tasks | Segmentation, Classification, Recognition, Localization |
+| Disease Focus | Myopia |
 | Input Signals | RGB Fundus Image |
-| Label Types | Pathologic Myopia Label, Segmentation Annotations |
-| Sample Unit | Image |
-| Split Unit | Image |
-| Access | Registration |
-| Release Year | 2019 |
+| Label Types | Segmentation Labels, Classification Labels, Localization Labels, Landmark Labels |
+| Sample Unit | - |
+| Split Unit | - |
+| Access | Public |
+| Release Year | 2024 |
 | Longitudinal | No |
 | Multimodal | No |
-| License / Terms | Grand Challenge Terms |
+| License / Terms | - |
 
 ## Statistics
 
 | Field | Value |
 | --- | --- |
-| Scale | 1,200 color fundus images |
-| Cohort | - |
-| Sample Breakdown | Official challenge packaging: 400 train / 400 validation / 400 test |
+| Reported Scale | 1,200 color fundus images |
+| Reported Cohort | - |
+| Reported Breakdown | Official challenge packaging: 400 train / 400 validation / 400 test |
 | Label Space | Pathologic myopia recognition, optic disc, fovea, and lesion annotations |
 | Annotation Scope | Classification, lesion segmentation, and localization |
 | Official / Recommended Split | Challenge split is the de facto reference protocol |
@@ -42,18 +42,15 @@ PALM is a key public reference for pathological myopia because it supports both 
 - One of the most important public references for pathological myopia on fundus images.
 - Useful when you need both disease recognition and interpretable lesion/anatomy targets.
 
-## Caveats
-
-- Challenge packaging can blur the line between classification and segmentation protocols if not documented carefully.
-- Many studies reuse only part of the annotations, so label scope should be stated explicitly.
-
-## Resource Links
+## Official Links
 
 | Resource | Link |
 | --- | --- |
-| Official Resource | [Grand Challenge](https://palm.grand-challenge.org/) |
+| Official Resource | [IEEE DataPort](https://ieee-dataport.org/documents/palm-pathologic-myopia-challenge) |
+| Implementation / Code | - |
 | Primary Paper | [Scientific Data 2024](https://www.nature.com/articles/s41597-024-02911-2) |
+| Homepage | [Homepage](https://palm.grand-challenge.org/) |
 
 ## Tags
 
-`myopia`, `challenge_dataset`, `image_level`
+`classification`, `fundus`, `localization`, `myopia`, `recognition`, `segmentation`

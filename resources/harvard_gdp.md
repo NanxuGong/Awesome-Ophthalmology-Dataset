@@ -1,4 +1,4 @@
-# Harvard-GDP
+# Harvard glaucoma DP
 
 A longitudinal multimodal glaucoma dataset centered on OCT for detection and progression studies.
 
@@ -6,28 +6,28 @@ A longitudinal multimodal glaucoma dataset centered on OCT for detection and pro
 
 | Field | Value |
 | --- | --- |
-| Official Name | Harvard-GDP |
-| Modality | Multimodal |
-| Submodality | Glaucoma Detection / Progression |
-| Tasks | Classification, Progression |
+| Official Name | Harvard glaucoma DP |
+| Modality | Fundus |
+| Submodality | Retinal Fundus |
+| Tasks | Progression |
 | Disease Focus | Glaucoma |
-| Input Signals | Multimodal Ophthalmic Data |
-| Label Types | Glaucoma Detection Label, Progression Related Label |
-| Sample Unit | Case |
-| Split Unit | Patient |
+| Input Signals | OCT Image, Visual Field |
+| Label Types | Classification Labels, Progression Targets |
+| Sample Unit | - |
+| Split Unit | - |
 | Access | Request or Project Page |
-| Release Year | 2024 |
+| Release Year | 2023 |
 | Longitudinal | Yes |
 | Multimodal | Yes |
-| License / Terms | Project-specific Terms |
+| License / Terms | - |
 
 ## Statistics
 
 | Field | Value |
 | --- | --- |
-| Scale | 1,000 patients |
-| Cohort | 1,000 patients |
-| Sample Breakdown | 3D OCT-centered multimodal glaucoma release |
+| Reported Scale | 1,000 patients |
+| Reported Cohort | 1,000 patients |
+| Reported Breakdown | 3D OCT-centered multimodal glaucoma release |
 | Label Space | Glaucoma detection and progression labels |
 | Annotation Scope | Multimodal multitask labels centered on OCT imaging |
 | Official / Recommended Split | Follow the official release protocol on the project page or GitHub |
@@ -42,18 +42,15 @@ Harvard-GDP matters because it moves beyond single-visit glaucoma screening and 
 - Important if you care about public glaucoma progression resources with OCT at the center.
 - Useful for fairness and generalization work because the release paper emphasizes demographic analysis.
 
-## Caveats
-
-- Detection and progression tasks should be reported with a clearly stated evaluation protocol.
-- The multimodal setup is richer than smaller single-task glaucoma datasets, so direct comparison needs care.
-
-## Resource Links
+## Official Links
 
 | Resource | Link |
 | --- | --- |
-| Official Resource | [Official Page](https://ophai.hms.harvard.edu/code/harvard-gdp/) |
+| Official Resource | [Official Page](https://ophai.hms.harvard.edu/datasets/harvard-gdp1000) |
+| Implementation / Code | - |
 | Primary Paper | [ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Luo_Harvard_Glaucoma_Detection_and_Progression_A_Multimodal_Multitask_Dataset_and_ICCV_2023_paper.html) |
+| Primary Paper | [Primary Paper](https://arxiv.org/abs/2308.13411) |
 
 ## Tags
 
-`glaucoma`, `longitudinal`, `multimodal`
+`fundus`, `glaucoma`, `progression`

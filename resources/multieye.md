@@ -7,27 +7,27 @@ A multimodal benchmark that uses fundus and OCT jointly during training while ta
 | Field | Value |
 | --- | --- |
 | Official Name | MultiEYE |
-| Modality | Multimodal |
-| Submodality | Fundus / OCT |
-| Tasks | Classification |
-| Disease Focus | Multi Disease |
-| Input Signals | Fundus Image, OCT Image |
-| Label Types | Disease Class |
-| Sample Unit | Case |
+| Modality | OCT |
+| Submodality | Retinal OCT |
+| Tasks | Classification, Recognition |
+| Disease Focus | - |
+| Input Signals | RGB Fundus Image, OCT Image, Clinical Data |
+| Label Types | Classification Labels |
+| Sample Unit | - |
 | Split Unit | - |
-| Access | Request or Project Page |
+| Access | Public |
 | Release Year | 2024 |
 | Longitudinal | No |
 | Multimodal | Yes |
-| License / Terms | Project-specific Terms |
+| License / Terms | - |
 
 ## Statistics
 
 | Field | Value |
 | --- | --- |
-| Scale | Large assembled multimodal classification release |
-| Cohort | - |
-| Sample Breakdown | Built from 12 public fundus datasets, 4 OCT datasets, and private hospital data |
+| Reported Scale | Large assembled multimodal classification release |
+| Reported Cohort | - |
+| Reported Breakdown | Built from 12 public fundus datasets, 4 OCT datasets, and private hospital data |
 | Label Space | Nine disease classes in the released training code |
 | Annotation Scope | Classification labels with unpaired fundus and OCT training support |
 | Official / Recommended Split | Train with multimodal data, evaluate on fundus-only recognition in the paper setting |
@@ -42,18 +42,14 @@ MultiEYE is interesting because it matches a realistic deployment story: OCT can
 - Conceptually interesting because it targets fundus-only testing while still learning from OCT during training.
 - Useful if you care about realistic clinical deployment where OCT may not be available at inference time.
 
-## Caveats
-
-- The release is assembled from mixed public and private sources, so exact composition matters.
-- Reported results depend strongly on whether you follow the paper's OCT-enhanced training protocol.
-
-## Resource Links
+## Official Links
 
 | Resource | Link |
 | --- | --- |
 | Official Resource | [GitHub](https://github.com/xmed-lab/MultiEYE) |
+| Implementation / Code | - |
 | Primary Paper | [arXiv / TMI 2024](https://arxiv.org/abs/2412.09402) |
 
 ## Tags
 
-`fundus_oct`, `multimodal`, `recent_dataset`
+`additional_curated`, `classification`, `oct`, `recognition`

@@ -7,13 +7,13 @@ A dedicated ultrawidefield fundus dataset with diagnosis labels, demographics, a
 | Field | Value |
 | --- | --- |
 | Official Name | Open Ultrawidefield Fundus Dataset |
-| Modality | UWF |
-| Submodality | Ultrawidefield Fundus |
-| Tasks | Classification, Quality Assessment |
-| Disease Focus | Multi Disease |
-| Input Signals | UWF Fundus Image |
-| Label Types | Disease Label, Image Quality Label |
-| Sample Unit | Image |
+| Modality | Fundus |
+| Submodality | Retinal Fundus |
+| Tasks | Quality Assessment |
+| Disease Focus | - |
+| Input Signals | RGB Fundus Image, Clinical Data |
+| Label Types | Quality Labels |
+| Sample Unit | - |
 | Split Unit | - |
 | Access | Public |
 | Release Year | 2024 |
@@ -25,9 +25,9 @@ A dedicated ultrawidefield fundus dataset with diagnosis labels, demographics, a
 
 | Field | Value |
 | --- | --- |
-| Scale | 700 ultrawidefield fundus images |
-| Cohort | 602 patients / 689 eyes |
-| Sample Breakdown | Seven groups with 100 images each: six diseases plus healthy controls |
+| Reported Scale | 700 ultrawidefield fundus images |
+| Reported Cohort | 602 patients / 689 eyes |
+| Reported Breakdown | Seven groups with 100 images each: six diseases plus healthy controls |
 | Label Space | Disease diagnosis, demographics, and five image-quality dimensions |
 | Annotation Scope | Diagnosis labels, demographic metadata, and image-quality assessment |
 | Official / Recommended Split | No single canonical benchmark split is enforced by the paper |
@@ -42,17 +42,14 @@ This dataset matters because public UWF resources are still scarce, and it treat
 - A rare public UWF release that includes both diagnosis and clinically grounded quality labels.
 - Useful for research that treats UWF as its own modality rather than a wider version of standard fundus.
 
-## Caveats
-
-- UWF image geometry differs substantially from conventional fundus data.
-- If you benchmark IQA and disease recognition together, report both tasks separately.
-
-## Resource Links
+## Official Links
 
 | Resource | Link |
 | --- | --- |
 | Official Resource | [Nature](https://www.nature.com/articles/s41597-024-04113-2) |
+| Implementation / Code | - |
+| Primary Paper | - |
 
 ## Tags
 
-`uwf`, `screening`, `quality_assessment`
+`additional_curated`, `fundus`, `quality_assessment`
