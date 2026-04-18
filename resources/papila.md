@@ -51,8 +51,7 @@ PAPILA is especially valuable when patient-level splitting matters, because both
 
 | Resource | Link |
 | --- | --- |
-| Official Resource | [Figshare](https://figshare.com/articles/dataset/PAPILA/14798004) |
-| Primary Paper | [Scientific Data 2022](https://www.nature.com/articles/s41597-022-01388-1) |
+| Official Resource | [Nature](https://www.nature.com/articles/s41597-022-01388-1) |
 
 ## Tags
 

@@ -51,8 +51,7 @@ GRAPE stands out because it supports progression-oriented glaucoma research inst
 
 | Resource | Link |
 | --- | --- |
-| Official Resource | [Springer Nature Figshare](https://springernature.figshare.com/collections/GRAPE_A_multi-modal_glaucoma_dataset_of_follow-up_visual_field_and_fundus_images_for_glaucoma_management/6406319) |
-| Primary Paper | [PMC / GRAPE paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC10404253/) |
+| Official Resource | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10404253/) |
 
 ## Tags
 

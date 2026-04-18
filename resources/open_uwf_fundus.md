@@ -51,8 +51,7 @@ This dataset matters because public UWF resources are still scarce, and it treat
 
 | Resource | Link |
 | --- | --- |
-| Official Resource | [Figshare](https://doi.org/10.6084/m9.figshare.26936446) |
-| Primary Paper | [Scientific Data 2024](https://www.nature.com/articles/s41597-024-04113-2) |
+| Official Resource | [Nature](https://www.nature.com/articles/s41597-024-04113-2) |
 
 ## Tags
 

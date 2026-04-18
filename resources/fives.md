@@ -51,8 +51,7 @@ FIVES is stronger than many older vessel datasets because it pairs detailed vess
 
 | Resource | Link |
 | --- | --- |
-| Official Resource | [Figshare](https://doi.org/10.6084/m9.figshare.19688169.v1) |
-| Primary Paper | [Scientific Data 2022](https://www.nature.com/articles/s41597-022-01564-3) |
+| Official Resource | [Nature](https://www.nature.com/articles/s41597-022-01564-3) |
 
 ## Tags
 

@@ -51,8 +51,7 @@ MMRDR is one of the few public diabetic retinopathy resources that brings three 
 
 | Resource | Link |
 | --- | --- |
-| Official Resource | [Figshare](https://figshare.com/articles/dataset/MMRDR/29423747) |
-| Primary Paper | [Scientific Data 2026](https://www.nature.com/articles/s41597-026-07005-9) |
+| Official Resource | [Nature](https://www.nature.com/articles/s41597-026-07005-9) |
 
 ## Tags
 
