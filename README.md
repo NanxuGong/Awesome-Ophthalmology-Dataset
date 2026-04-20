@@ -1,6 +1,6 @@
 # Awesome Ophthalmology Dataset
 
-<p align="center"><strong>✦ A curated browsing hub for ophthalmology datasets ✦</strong></p>
+<p align="center"><strong>🔥 A curated browsing hub for ophthalmology datasets 🔥</strong></p>
 
 <p align="center">
   Fundus · OCT · OCTA · Multimodal · Corneal · Longitudinal · Registration
@@ -10,19 +10,23 @@
   <a href="tags/README.md">Tag Search</a> · <a href="resources/README.md">Profile Directory</a> · <a href="#starting-paths">Starting Paths</a> · <a href="#track-atlas">Track Atlas</a> · <a href="#track-shelves">Track Shelves</a>
 </p>
 
+<p align="center">
+  👁️ Profile-first browsing · 🏷️ Tag-first lookup · 🔥 Curated starting points
+</p>
+
 Display-first collection for browsing ophthalmology datasets through two parallel views:
 curated track groups for fast scanning, and tag-based indices for precise lookup.  
 Detailed dataset pages live in [resources/](resources/README.md), while faceted browsing lives in [tags/](tags/README.md).
 
 > **Last updated:** 2026-04-20
 
-## Collection Snapshot
+## ✦ Collection Snapshot
 
 | **77** | **77** | **14** | **6** |
 | --- | --- | --- | --- |
 | Catalog entries | Profile pages | Track groups | Tag categories |
 
-## Browse Playbook
+## 🧭 Browse Playbook
 
 | Route | Best for | Open |
 | --- | --- | --- |
@@ -33,7 +37,7 @@ Detailed dataset pages live in [resources/](resources/README.md), while faceted 
 | Start with task | Best when your search begins from evaluation setup | [tags/task.md](tags/task.md) |
 | Start with disease target | Best when your search begins from a clinical problem | [tags/disease_target.md](tags/disease_target.md) |
 
-## Tag Lenses
+## 🏷️ Tag Lenses
 
 | Lens | Sub-tags | What it gives you |
 | --- | ---: | --- |
@@ -44,14 +48,14 @@ Detailed dataset pages live in [resources/](resources/README.md), while faceted 
 | [Label Form](tags/label_form.md) | 11 | Annotation-type browsing across masks, grades, landmarks, registration pairs, and other label structures |
 | [Property](tags/property.md) | 2 | Dataset properties such as longitudinal or multimodal organization |
 
-## Navigation Notes
+## ✨ Navigation Notes
 
 - `Track` pages are best for broad scanning and getting a feel for the catalog.
 - `Tag` pages are best for focused lookup across modality, task, disease target, input signal, label form, and dataset property.
 - `Resource` pages are where the detailed dataset information, statistics, and official links live.
 
 <a id="starting-paths"></a>
-## Starting Paths
+## 🔥 Starting Paths
 
 - **Glaucoma and progression:** [GRAPE](resources/grape.md), [Harvard glaucoma DP](resources/harvard_gdp.md), [PAPILA](resources/papila.md), [iChallenge-GAMMA](resources/ichallenge_gamma.md)
 - **Diabetic retinopathy and lesions:** [IDRiD](resources/idrid.md), [MAPLES-DR](resources/maples_dr.md), [MMRDR](resources/mmrdr.md), [DRSeg_TJDR](resources/drseg_tjdr.md)
@@ -60,7 +64,7 @@ Detailed dataset pages live in [resources/](resources/README.md), while faceted 
 - **Multimodal and paired signals:** [MultiEYE](resources/multieye.md), [MM-Retinal](resources/mm_retinal.md), [FDDM TOPCON-MM](resources/fddm_topcon_mm.md), [OphNet](resources/ophnet.md)
 
 <a id="track-atlas"></a>
-## Track Atlas
+## 🗺️ Track Atlas
 
 | Track | Count | Focus | Jump |
 | --- | ---: | --- | --- |
@@ -80,7 +84,7 @@ Detailed dataset pages live in [resources/](resources/README.md), while faceted 
 | **Additional Curated** | 3 | Extra public entries added beyond the imported reference list | [Open](#additional_curated) |
 
 <a id="track-shelves"></a>
-## Track Shelves
+## 🗂️ Track Shelves
 
 Expandable catalog shelves for all 14 track groups. Open a shelf to scan the datasets in that lane, then jump into the linked profile page for details.
 
@@ -319,7 +323,7 @@ Additional public entries already curated in this repository beyond the imported
 
 ---
 
-## Directory Links
+## 📚 Directory Links
 
 - [All dataset profiles](resources/README.md)
 - [Tag search hub](tags/README.md)
